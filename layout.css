@@ -1,0 +1,82 @@
+body {
+    background-color: rgb(172, 132, 59);
+}
+
+.Head {
+    display: flex;
+    background-color: rgba(206, 197, 197, 0.822);
+    justify-content: center;
+}
+
+.Head h2 {
+    color: rgb(145, 118, 118);
+    font-size: 24px;
+}
+
+.Main {
+    display: flex;
+    margin-top: 15px;
+}
+
+.one {
+    flex: 1;
+    background-color: rgb(104, 136, 125);
+    text-align: center;
+    font-size: 24px;
+}
+
+.one h2 {
+    margin-top: 200px;
+}
+
+.two {
+    flex: 2;
+    background-color: rgb(146, 130, 161);
+    text-align: center;
+    font-size: 24px;
+    color: rgb(110, 96, 96);
+}
+
+.headr {
+    display: flex;
+    align-items: center;
+    margin: auto;
+    width: 300px;
+    height: 210px;
+    margin-top: 250px;
+}
+
+.two1 {
+    flex: 1;
+    background-color: rgb(97, 92, 82);
+}
+
+.two2 {
+    flex: 1;
+    background-color: rgb(78, 67, 67);
+    margin-left: 40px;
+}
+
+.two3 {
+    flex: 1;
+    background-color: rgb(62, 67, 78);
+    margin-left: 40px;
+}
+
+h3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Footer {
+    display: flex;
+    background-color: rgb(51, 39, 39);
+    justify-content: center;
+    margin-top: 15px;
+}
+
+.Footer h2 {
+    color: white;
+    font-size: 24px;
+}
